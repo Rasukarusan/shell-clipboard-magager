@@ -2,7 +2,8 @@
 
 Clipboard manager by ShellScript
 
-![Demo]()
+![Demo](https://rasukarusan.github.io/blog-assets/shell_clipboard/demo1.gif)
+
 
 # Requirement
 
